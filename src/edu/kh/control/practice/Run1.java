@@ -11,7 +11,7 @@ public class Run1 {
 		//con.practice2();	
 		//con.practice3();
 		//con.practice4();
-		con.practice4();
+		
 		
 	}
 

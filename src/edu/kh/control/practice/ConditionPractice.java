@@ -107,7 +107,7 @@ public class ConditionPractice {
 		
 	}
 	
-	public void practice5() {
+	/*public void practice5() {
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -124,6 +124,7 @@ public class ConditionPractice {
 		int input = sc.nextInt();
 		
 		int sum
-		
 	}
+		*/
+	
 }
