@@ -8,7 +8,7 @@ public class Run2 {
 		LoopPractice lp = new LoopPractice();
 		
 		
-		lp.pr1();
+		lp.pr6();
 		
 				
 
