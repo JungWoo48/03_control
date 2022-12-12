@@ -59,7 +59,8 @@ public class BranchExample {
 		
 		for(int i = 1; i <= 100; i++) {
 			if(i == 40) {
-				break;
+				break;//continue가 먼저 온다면 5의 배수인 40이 먼저 건너띄어져 break문을 만나지 못한다.
+						//그래서 먼저 break문을 입력한다
 			}
 			if(i % 5 == 0) {
 				continue;

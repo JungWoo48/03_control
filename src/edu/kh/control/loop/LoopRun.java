@@ -16,7 +16,7 @@ public class LoopRun {
 		//fo.ex7();
 		//fo.ex8();
 		//fo.ex12();
-		wh.ex4();
+		//wh.ex4();
 	}
 	
 
